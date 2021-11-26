@@ -1,0 +1,42 @@
+
+.game-header img {
+    width: 100vw;
+    height: 25rem;
+  }
+  
+  .game-wish {
+    padding: 2rem 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .game-like {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: rgb(5, 112, 5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .game-wish a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #06802a;
+    padding: 0 0 0 1rem;
+  }
+  
+  .game p {
+     margin: 1rem; 
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .game h3 {
+    padding: 0 6rem;
+    text-align: justify;
+    font-size: 1.2em;
+    color: rgb(4, 102, 4);
+  }

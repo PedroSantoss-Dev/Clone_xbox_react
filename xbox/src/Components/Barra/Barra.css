@@ -1,0 +1,38 @@
+
+.barra{
+    width: 100vh;
+    height: 6rem;
+    margin: 1.5rem;
+}
+
+.barra_list{
+    width: 100vw;
+    height: 6rem;
+    display: flex;
+    justify-content: center;  
+    list-style: none;
+}
+.barra_li{
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    
+
+}
+.barra_list .barra_li a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+   
+    
+}
+.barra_img{
+    width: 5rem;
+    height: 5rem;
+    margin-left: 0.5rem;
+
+}
+
